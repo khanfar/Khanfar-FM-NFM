@@ -4,6 +4,9 @@ A powerful GUI application for controlling RTL-SDR devices with support for both
 
 Developed by Khanfar Systems
 
+![Screenshot 2025-01-01 194231](https://github.com/user-attachments/assets/9dee1471-8fdb-400d-96f2-0b987218fce9)
+
+
 ## Features
 
 - FM and NFM reception modes
